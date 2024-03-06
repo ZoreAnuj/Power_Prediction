@@ -25,5 +25,5 @@ This file contains the weather data from October 1st, 2019 to October 27th, 2019
 You need to predict the generation of power of the given plan in this duration: October 1st, 2019 to October 27th, 2019.
 
 ## Result 
-![](img/4.png)
+![](4.png)
 
